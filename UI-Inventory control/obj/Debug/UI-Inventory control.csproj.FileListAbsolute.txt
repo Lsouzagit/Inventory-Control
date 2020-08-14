@@ -1,0 +1,12 @@
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\bin\Debug\UI-Inventory control.exe.config
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\bin\Debug\UI-Inventory control.exe
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\bin\Debug\UI-Inventory control.pdb
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI-Inventory control.csprojAssemblyReference.cache
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI_Inventory_control.Form1.resources
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI_Inventory_control.Properties.Resources.resources
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI-Inventory control.csproj.GenerateResource.cache
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI-Inventory control.csproj.CoreCompileInputs.cache
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI-Inventory control.exe
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI-Inventory control.pdb
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI_Inventory_control.Form2.resources
+E:\Projects\Inventory Control\Inventory control\UI-Inventory control\obj\Debug\UI_Inventory_control.Form3.resources
